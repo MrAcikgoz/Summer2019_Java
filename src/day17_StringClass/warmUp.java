@@ -15,7 +15,7 @@ public class warmUp {
          3. declear a string variable called full name
          4. concat firts and lastname and assign it to fullname
          5. Display in the console total numbers of characters in full name
-         */
+         */ 
 		
 		
 		
